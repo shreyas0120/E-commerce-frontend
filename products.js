@@ -1,0 +1,42 @@
+const products=[
+    {
+        id:1,
+        title:"laptop",
+        price:121999,
+    description:"air m4",
+    category:"electronic",
+    image:"images/laptop.png",
+    },
+    {
+        id:2,
+        title:"smart watch",
+        price:2999,
+    description:"fitness smart watch with heart rate monitor",
+    category:"electronic",
+    image:"images/smartwatch.png",
+    },
+    {
+        id:3,
+        title:"T-shirt",
+        price:999,
+    description:"100% cotton printd t shirt",
+    category:"clothing",
+    image:"images/t-shirt.png",
+    },
+    {
+        id:4,
+        title:"Mobile Phone",
+        price:112999,
+    description:"Mobile",
+    category:"electronic",
+    image:"images/mobile.png",
+    },
+    {
+        id:5,
+        title:"HeadPhone",
+        price:2999,
+    description:"Headphone",
+    category:"electronic",
+    image:"images/headphone.png",
+    },
+]
